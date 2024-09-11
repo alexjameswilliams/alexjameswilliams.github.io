@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Queen Mary University of London</a>
+subtitle: <a href='https://www.aim.qmul.ac.uk/'>Queen Mary University of London</a>
 
 profile:
   align: right
