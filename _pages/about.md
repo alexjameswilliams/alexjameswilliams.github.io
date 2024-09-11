@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Queen Mary University of London</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Centre for Digital Music</p>
+    <p>Queen Mary University of London</p>
+    <p>London, UK</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD Student at Queen Mary University of London in the [https://www.aim.qmul.ac.uk/](UKRI Centre for Doctoral Training in Artificial Intelligence and Music) researching user-driven deep music generation in digital audio workstations, in collaboration with Sony CSL and under the supervision of [https://www.qmul.ac.uk/eecs/people/profiles/barthetmathieu.html](Mathieu Barthet) and [https://csl.sony.fr/member/stefan-lattner-phd/](Stefan Lattner).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received an MSc. by Research in Artificial Intelligence and Robotics from Swansea University in 2022 for research into deep reinforcement learning for robotic aerospace manufacturing, and a First Class BSc. in Computer Science from the University of Liverpool in 2018.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From 2018 to 2023, I was a Research Assistant in the [https://www.swansea.ac.uk/science-and-engineering/research/engineering/astute/](ASTUTE (Advanced Sustainable Manufacturing Technologies)) operation at Swansea University, where I undertook collaborative research, development, and innovation projects with manufacturing companies across Wales in the remit of Industry 4.0. concepts including AI, robotics, and manufacturing systems engineering.
+
+My research interests include artificial intelligence, computational creativity for electronic dance music, music information retrieval, robotics and industrial automation, human-computer interaction, industry 4.0, and the Internet of Things.
