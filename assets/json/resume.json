@@ -79,9 +79,10 @@
       "organization": "LSRadio",
       "location": "Liverpool, UK",
       "position": "Music Editor, Presenter, Writer",
+      "url": "https://www.mixcloud.com/Zingerhour/uploads/",
       "startDate": "2015",
       "endDate": "2018",
-      "summary": "Music Editor for two years, presenter for two years, writer for three years. Organising opportunities for reviewers, writing articles for the radio blog, reviewing the articles of others, presenting a radio show."
+      "summary": " Organising opportunities for reviewers by liasing with music industry PR, writing articles for the radio blog, reviewing the articles of others, presenting a radio show with a weekly 1 hour live DJ mix."
     },
     {
       "organization": "Liverpool University DJ Society",
@@ -90,7 +91,26 @@
       "startDate": "2016",
       "endDate": "2018",
       "summary": "Founded the DJ society alonside others at University of Liverpool. Worked to get the society off the ground by fundraising, recruiting members, organising events such as open decks, tutorials, and socials."
+    },
+    {
+      "organization": "Ninja Tune Record Label",
+      "location": "Liverpool, UK",
+      "position": "Promotion",
+      "url": "https://ninjatune.net/",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Helping to promote new releases on the record label by distributing promotional materils at impactful spots round the city."
+    },
+    {
+      "organization": "Construct Ltd. Record Label",
+      "location": "Liverpool, UK",
+      "position": "Admin Assistant",
+      "url": "https://www.discogs.com/label/634830-Construct-2",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Assisting with label admin; identifying contacts / venues / nights."
     }
+    
   ],
   "education": [
     {
