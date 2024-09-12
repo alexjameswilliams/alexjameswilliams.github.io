@@ -22,13 +22,9 @@ I am an artificial intelligence researcher and musician who is passionate about 
 I have multi-disciplinary experience in areas of computer science, engineering and music technology, with particular focus on artificial intelligence, computational creativity, music information retrieval, human-computer interaction, robotics & automation systems, optimisation, sensors / computer vision, The Internet of Things, Industry 4.0, and Electronic Music Production.
 
 I am currently a PhD Student at Queen Mary University of London in the [UKRI Centre for Doctoral Training in Artificial Intelligence and Music](https://www.aim.qmul.ac.uk/) researching user-driven deep music generation in digital audio workstations, in collaboration with Sony CSL and under the supervision of [Mathieu Barthet](https://www.qmul.ac.uk/eecs/people/profiles/barthetmathieu.html) and [Stefan Lattner](https://csl.sony.fr/member/stefan-lattner-phd/).
-
-I received an MSc. by Research in Artificial Intelligence and Robotics from Swansea University in 2022 for research into deep reinforcement learning for robotic aerospace manufacturing, and a First Class BSc. in Computer Science from the University of Liverpool in 2018.
+I previously received an MSc. by Research in Artificial Intelligence and Robotics from Swansea University in 2022 for research into deep reinforcement learning for robotic aerospace manufacturing, and a First Class BSc. in Computer Science from the University of Liverpool in 2018.
 
 From 2018 to 2023, I was a Research Assistant in the [ASTUTE (Advanced Sustainable Manufacturing Technologies)](https://www.swansea.ac.uk/science-and-engineering/research/engineering/astute/) operation at Swansea University, where I undertook collaborative research, development, and innovation projects with manufacturing companies across Wales in the remit of Industry 4.0. concepts including AI, robotics, and manufacturing systems engineering.
-
 In 2024, I served as the Chief AI Officer for Mariposa AI, a start-up developed an AI-assisted slow dating app that provides a new first date each week.
-
-I have a journal publication in IEEE, and have presented papers at academic conferences and workshops including AES, RecSys, KES, KES SDM, and DMRN+17.
 
 Outside of research, I am also an electronic music producer and DJ performing under the name [Zinger](https://soundcloud.com/djzinger).
