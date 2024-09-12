@@ -6,21 +6,14 @@
     "email": "alexander.j.williams@qmul.ac.uk",
     "phone": "XXXXX",
     "url": "https://alexjameswilliams.github.io/",
-    "summary": "By day: PhD researcher in AI and Music; By night: Electronic music producer and DJ.",
+    "summary": "AI and Music researcher by day; Electronic music producer and DJ by night.",
     "location": {
       "address": "Centre for Digital Music",
       "postalCode": "E1 4NS",
       "city": "London",
       "countryCode": "UK",
       "region": "England"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "academicalexx",
-        "url": "https://twitter.com/academicalexx"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -41,7 +34,7 @@
     },
     {
       "name": "Malinko",
-      "position": "Project Assistant",
+      "position": "Junior Developer",
       "startDate": "2018-07",
       "endDate": "2023-09",
       "summary": "Responsible for research and implementing advanced genetic algorithm techniques for improving Malinko's highly constrained healthcare scheduling algorithm."
@@ -101,7 +94,12 @@
       "studyType": "PhD",
       "startDate": "2022",
       "endDate": "Present",
-      "courses": ["Research Methods and Responsible Innovation; Deep Learning for Music and Audio; Machine Learning; Music Informatics; Music and Audio Programming; Computational Creativity"]
+      "courses": ["Computational Creativity",
+      "Deep Learning for Music and Audio",
+      "Machine Learning",
+      "Music and Audio Programming",
+      "Music Informatics",
+      "Research Methods and Responsible Innovation"]
     },
     {
       "institution": "Swansea University",
