@@ -18,21 +18,23 @@
       "name": "Mariposa AI",
       "position": "Chief AI Officer",
       "url": "https://mariposa.app/",
-      "startDate": "2024",
+      "startDate": "2024-02",
+      "endDate": "2024-09",
       "summary": "Mariposa is a start-up developing an AI-assisted slow-dating app that provides a new first date each week. As well as serving as director, I was responsible for the research and implementation of AI functionality within the app."
     },
     {
       "name": "ASTUTE 2020 (Advanced Sustainable Manufacturing Technologies), Swansea University",
       "position": "Project Assistant",
       "url": "https://www.swansea.ac.uk/science-and-engineering/research/engineering/astute/",
-      "startDate": "2018",
-      "endDate": "2023",
+      "startDate": "2018-10",
+      "endDate": "2023-10",
       "summary": "Working to deliver industry-academia collaborative research projects within the remit of Industry 4.0 with expertise in AI, robotics and automation systems, Internet of Things (IoT), optimisation algorithms, sensors (including computer vision), and more"
     },
     {
       "name": "Malinko",
       "position": "Junior Developer",
-      "startDate": "2018",
+      "startDate": "2018-07",
+      "endDate": "2023-09",
       "summary": "Responsible for research and implementing advanced genetic algorithm techniques for improving Malinko's highly constrained healthcare scheduling algorithm."
     }
   ],
@@ -52,6 +54,7 @@
       "position": "Organising Committee Member",
       "url": "https://www.qmul.ac.uk/dmrn/dmrn18/",
       "startDate": "2023",
+      "endDate": "Present",
       "summary": "DMRN is a one day research conference. I assisted with conference planning including reviewing submissions, scheduling talks, and chairing sessions."
     },
     {
@@ -60,6 +63,7 @@
       "position": "Volunteer",
       "url": "https://audio.dev/conference/",
       "startDate": "2023",
+      "endDate": "2023",
       "summary": "Helped keep the conference running smoothly by assisting guests, speakers and organisers with whatever was needed."
     },
     {
@@ -68,7 +72,8 @@
       "position": "Presenter",
       "url": "https://soundcloud.com/djzinger/sets/zinger-nation-thursdays-6-7pm",
       "startDate": "2022",
-      "summary": "Presented a weekly radio show called Zinger Nation, consisting of 1 hour DJ mixes from myself and guests."
+      "endDate": "2022",
+      "summary": "Presented a weekly radio show called Zinger Nation consisting of 1 hour DJ mixes from myself and guests."
     },
     {
       "organization": "LSRadio",
@@ -93,6 +98,7 @@
       "position": "Promotion",
       "url": "https://ninjatune.net/",
       "startDate": "2016",
+      "endDate": "2016",
       "summary": "Helping to promote new releases on the record label by distributing promotional materils at impactful spots round the city."
     },
     {
@@ -101,6 +107,7 @@
       "position": "Admin Assistant",
       "url": "https://www.discogs.com/label/634830-Construct-2",
       "startDate": "2015",
+      "endDate": "2015",
       "summary": "Assisting with label admin; identifying contacts / venues / nights."
     }
     
