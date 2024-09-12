@@ -118,7 +118,7 @@
       "area": "Computer Science",
       "studyType": "BSc. Hons.",
       "startDate": "2015",
-      "endDate": "2018"
+      "endDate": "2018",
       "score": "First Class",
       "courses": ["Advanced Object-Oriented Programming; Artificial Intelligence; Bio-Inspired Optimisation; Complexity of Algorithms; Database Development;  Decision, Computation and Language;  Efficient Sequential Algorithms;  Formal Methods; Human-Centric Computing; Logic; Mobile Computing;  Multi-Agent Systems;  Operating System Concepts; Principles of C and Memory Management; Professional Skills; Robotics and Autonomous Systems; Scripting Languages; Software Engineering;"]
     }
@@ -129,7 +129,7 @@
       "name": "LBR iiwa - Robot Operation",
       "date": "2018-09",
       "issuer": "KUKA",
-      "url": "https://www.kuka.com/",
+      "url": "https://www.kuka.com/"
     }
   ],
   
@@ -149,7 +149,7 @@
     {
       "name": "User Driven Music Generation in Digital Audio Workstations",
       "publisher": "Digital Music Research Network +17",
-      "releaseDate": "2022-12-20",
+      "releaseDate": "2022-12-20"
     },
     {
       "name": "Real-Time Hybrid Visual Servoing of a Redundant Manipulator via Deep Reinforcement Learninge",
@@ -179,7 +179,7 @@
   "skills": [
     {
       "name": "Music Production and DJing",
-      "level": "12 Years Experience",
+      "level": "12 Years Experience"
     }
   ],
   "languages": [
