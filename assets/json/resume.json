@@ -4,12 +4,10 @@
     "label": "PhD Researcher in AI and Music",
     "image": "",
     "email": "alexander.j.williams@qmul.ac.uk",
-    "phone": "XXXXX",
     "url": "https://alexjameswilliams.github.io/",
     "summary": "AI and Music researcher by day; Electronic music producer and DJ by night.",
     "location": {
-      "address": "Centre for Digital Music",
-      "postalCode": "E1 4NS",
+      "address": "Centre for Digital Music, Queen Mary University of London",
       "city": "London",
       "countryCode": "UK",
       "region": "England"
