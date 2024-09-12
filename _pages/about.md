@@ -12,6 +12,8 @@ profile:
     <p>Centre for Digital Music,</p>
     <p>Queen Mary University of London,</p>
     <p>London, UK</p>
+    <p></p>
+    <p>alexander.j.williams@qmul.ac.uk</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
