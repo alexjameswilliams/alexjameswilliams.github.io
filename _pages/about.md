@@ -25,6 +25,6 @@ I am currently a PhD Student at Queen Mary University of London in the [UKRI Cen
 
 From 2018 to 2023, I was a Research Assistant in the [ASTUTE (Advanced Sustainable Manufacturing Technologies)](https://www.swansea.ac.uk/science-and-engineering/research/engineering/astute/) operation at Swansea University, where I undertook collaborative research, development, and innovation projects with manufacturing companies across Wales in the remit of Industry 4.0. concepts including AI, robotics, and manufacturing systems engineering.
 
-In 2024, I served as the Chief AI Officer for Mariposa AI, a start-up developing an AI-assisted slow dating app that provides a new first date each week.
+In 2024, I served as the Chief AI Officer for [Mariposa AI](https://mariposa.app/), a start-up developing an AI-assisted slow dating app.
 
 Outside of research, I am also an electronic music producer and DJ performing under the name [Zinger](https://soundcloud.com/djzinger).
