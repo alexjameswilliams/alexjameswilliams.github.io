@@ -15,6 +15,13 @@
   },
   "work": [
     {
+      "name": "Queen Mary University of London",
+      "position": "Module Demonstrator",
+      "startDate": "2024-09",
+      "endDate": "2024-12",
+      "summary": "Demonstrator for module ECS427U: Professional and Research Practice. Included marking coursework, providing feedback, and assisting students with tutorials and projects during lab sessions."
+    },
+    {
       "name": "Mariposa AI",
       "position": "Chief AI Officer",
       "url": "https://mariposa.app/",
@@ -176,6 +183,12 @@
   ],
   
   "publications": [
+    {
+      "name": "Towards Music Industry 5.0: Perspectives on Artificial Intelligence",
+      "publisher": "Artificial Intelligence for Music Workshop at the 39th Annual AAAI Conference on Artificial Intelligence",
+      "releaseDate": "2025-03-03",
+      "url": "https://www.researchgate.net/publication/388274224_Towards_Music_Industry_50_Perspectives_on_Artificial_Intelligence"
+    },
     {
       "name": "Deep Learning-based Audio Representations for the Analysis and Visualisation of Electronic Dance Music DJ Mixes",
       "publisher": "AES Symposium on AI and the Musician ",
