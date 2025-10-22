@@ -15,11 +15,17 @@
   },
   "work": [
     {
+      "name": "Parliamentary Office of Science and Technology (POST)",
+      "position": "Research Fellow",
+      "url": "https://post.parliament.uk/",
+      "startDate": "2025-09",
+      "summary": "Producing an accessible, impartial, and factual briefing on data centres and their sustainability for UK Parliamentarians to inform policy decisions."
+    },
+    {
       "name": "Queen Mary University of London",
       "position": "Module Demonstrator",
-      "startDate": "2024-09",
-      "endDate": "2024-12",
-      "summary": "Demonstrator for module ECS427U: Professional and Research Practice. Included marking coursework, providing feedback, and assisting students with tutorials and projects during lab sessions."
+      "startDate": "2022-10",
+      "summary": "Demonstrator for modules including: Artificial Intelligence (ECS759P); Software Engineering (ECS505U); Professional and Research Practice (ECS427U); Digital Media and Social Networks (ECS637U); Software Engineering Included marking coursework, providing feedback, and assisting students with tutorials and projects during lab sessions."
     },
     {
       "name": "Mariposa AI",
