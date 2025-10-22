@@ -29,4 +29,6 @@ From 2018 to 2023, I was a Research Assistant in the [ASTUTE (Advanced Sustainab
 
 In 2024, I served as the Chief AI Officer for [Mariposa AI](https://mariposa.app/), a start-up developing an AI-assisted slow dating app.
 
+In 2025, I undertook a research fellowship in the Parliamentary Office of Science and Technology (POST) at the UK Parliament working on a POSTnote on [Data Centres and their Sustainability](https://post.parliament.uk/approved-work-data-centres-and-their-sustainability/). This POSTnote will be published in early 2026.
+
 Outside of research, I am also an electronic music producer and DJ performing under the name [Zinger](https://soundcloud.com/djzinger).
