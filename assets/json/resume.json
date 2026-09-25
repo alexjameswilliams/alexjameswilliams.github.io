@@ -15,6 +15,13 @@
   },
   "work": [
     {
+      "name": "Sineco",
+      "position": "AI Engineer",
+      "url": "https://sineco.ai/",
+      "startDate": "2026-07",
+      "summary": "Sineco is a start-up developing science-led music recommendation to improve performance in everyday activities. I am responsible for the research and implementation of AI functions in the app."
+    },
+    {
       "name": "Parliamentary Office of Science and Technology (POST)",
       "position": "Research Fellow",
       "url": "https://post.parliament.uk/research-briefings/post-pn-0762/",
