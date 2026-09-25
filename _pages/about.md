@@ -31,6 +31,6 @@ In 2024, I served as the Chief AI Officer for [Mariposa AI](https://mariposa.app
 
 In 2025, I undertook a research fellowship in the Parliamentary Office of Science and Technology (POST) at the UK Parliament working on a POSTnote on [Data Centres and their Sustainability](https://post.parliament.uk/approved-work-data-centres-and-their-sustainability/).
 
-I have recently joined [Sineco]{https://sineco.ai/} as a part-time AI Engineer. [Sineco]{https://sineco.ai/} is a start-up developing science-led music recommendation to improve performance in everyday activities.
+I have recently joined [Sineco](https://sineco.ai/) as a part-time AI Engineer. [Sineco](https://sineco.ai/) is a start-up developing science-led music recommendation to improve performance in everyday activities.
 
 Outside of research, I am also an electronic music producer and DJ performing under the name [Zinger](https://soundcloud.com/djzinger).
